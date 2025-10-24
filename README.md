@@ -111,7 +111,7 @@ MedBuddy needs these permissions to serve you better:
 
 ## 🎨 My Contribution to MedBuddy
 
-As **Atharva Thorat** (Student ID: 1032212077), I played a pivotal role in bringing MedBuddy from concept to reality during my BTech Computer Science and Engineering program at MIT World Peace University.
+As **Atharva Thorat**, I played a pivotal role in bringing MedBuddy from concept to reality during my BTech Computer Science and Engineering program at MIT World Peace University.
 
 ### 🔬 Research & Analysis Phase
 
@@ -308,7 +308,7 @@ medbuddy/
 │   │   ├── schedule_model.dart
 │   │   └── history_model.dart
 │   │
-│   ├── screens/                   # UI screens (my primary work)
+│   ├── screens/                   # UI screens 
 │   │   ├── dashboard.dart         # Main screen
 │   │   ├── schedule_screen.dart   # Calendar view
 │   │   ├── add_medicine.dart
@@ -407,7 +407,7 @@ flutter test test/services/notification_service_test.dart
 
 ## 👨‍💻 About Me
 
-Hi! I'm **Atharva Thorat**, a BTech Computer Science and Engineering student at **MIT World Peace University, Pune** (Student ID: 1032212077).
+Hi! I'm **Atharva Thorat**, a Master's Computer Science **University of Soutern California**.
 
 **What Drives Me:**
 I'm passionate about creating technology that genuinely improves people's lives—especially for underserved populations. MedBuddy represents my belief that good design isn't just about aesthetics; it's about empathy, accessibility, and solving real human problems.
@@ -421,9 +421,6 @@ I'm passionate about creating technology that genuinely improves people's lives�
 
 **Academic Journey:**
 This capstone project was developed under the expert guidance of **Prof. Laxmi Bhagwat** and program coordinator **Dr. Balaji M. Patil** during the 2024-2025 academic year. It represents countless hours of research, design iterations, user testing, and refinement—all driven by the goal of making healthcare more accessible.
-
-**Beyond Code:**
-When I'm not coding, you'll find me conducting user research, reading about cognitive psychology, or volunteering at elderly care centers to understand the challenges seniors face with technology firsthand.
 
 ---
 
@@ -447,14 +444,6 @@ This project wouldn't exist without incredible support:
 - Material Design team for accessibility guidelines
 - Every package maintainer whose code powers MedBuddy
 
----
-
-## 📄 License
-
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
-
-**Educational Purpose Disclaimer:**
-MedBuddy is a student capstone project created for educational purposes. While it incorporates best practices in healthcare technology, **it is not a substitute for professional medical advice**. Always consult qualified healthcare providers for medical decisions.
 
 ---
 
@@ -467,10 +456,8 @@ MedBuddy is a student capstone project created for educational purposes. While i
 **Want to contribute?** Fork the repo, make your changes, and submit a pull request.
 
 **Questions?** Reach out through:
-- 🎓 MIT World Peace University, Pune
-- 📧 [Project Email Contact]
-- 💼 [LinkedIn Profile]
-- 🐙 [GitHub Profile]
+- 📧 [atharvathorat03@gmail.com]
+- 💼 [[LinkedIn Profile](https://www.linkedin.com/in/atharva-thorat-604146239/)]
 
 ---
 
@@ -510,3 +497,4 @@ Want to dive deeper?
 ---
 
 *Last Updated: May 2025 | Version 1.0.0 | Academic Year 2024-2025*
+
