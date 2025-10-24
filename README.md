@@ -483,18 +483,9 @@ If MedBuddy resonates with you, please give it a ⭐️ on GitHub! Your support 
 
 </div>
 
----
-
-## 📚 Additional Resources
-
-Want to dive deeper?
-- 📖 [Full Project Report](docs/FINAL_MEDBUDDY_REPORT.pdf) - Comprehensive 69-page documentation
-- 🎓 [Research Paper](docs/research_paper.pdf) - Academic findings and methodology
-- 🎨 [Design System](docs/design_guidelines.md) - UI/UX principles and patterns
-- 🧪 [Testing Documentation](docs/testing.md) - Quality assurance procedures
-- 📊 [System Architecture](docs/architecture.md) - Technical deep dive
 
 ---
 
 *Last Updated: May 2025 | Version 1.0.0 | Academic Year 2024-2025*
+
 
