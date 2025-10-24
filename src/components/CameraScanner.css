@@ -1,0 +1,64 @@
+.scanPage {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    width: 100vw;
+    background-color: #000;
+    font-family: Arial, sans-serif;
+    position: relative;
+}
+
+.camera {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 90vh;
+    border-radius: 0;
+}
+
+.capture-btn {
+    position: absolute;
+    bottom: 5vh;
+    left: 50%;
+    transform: translateX(-50%);
+    padding: 12px 25px;
+    font-size: 18px;
+    background-color: #ff4757;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+.capture-btn:hover {
+    background-color: #e84118;
+}
+
+.processing {
+    position: absolute;
+    bottom: 5vh;
+    color: #fff;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.error {
+    color: red;
+    font-weight: bold;
+    text-align: center;
+    position: absolute;
+    top: 10vh;
+}
+
+.medicine-info {
+    margin-top: 10px;
+    text-align: center;
+    color: white;
+    background: rgba(0, 0, 0, 0.7);
+    padding: 15px;
+    border-radius: 10px;
+}
